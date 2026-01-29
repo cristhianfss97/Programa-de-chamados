@@ -1,2 +1,2 @@
 # Programa-de-chamados
-Sistema de Chamados desenvolvido em JavaScript puro, permitindo a criação, acompanhamento e gerenciamento de chamados técnicos. O sistema conta com controle de status (Aberto, Andamento e Finalizado), filtros, contadores dinâmicos e persistência de dados via localStorage.
+Sistema de Chamados desenvolvido em JavaScript puro, permitindo a criação, acompanhamento e gerenciamento de chamados técnicos. O sistema conta com controle de status (Aberto, Andamento e Finalizado), filtros, contadores dinâmicos e persistência de dados via localStorage. Usei ajuda de uma inteligência artifical, pois ainda estou aprendendo, então peguei os codigos e fui pagando explicação de cada linha criada.
